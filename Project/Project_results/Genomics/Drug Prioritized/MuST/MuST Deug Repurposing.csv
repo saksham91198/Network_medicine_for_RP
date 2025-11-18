@@ -1,0 +1,261 @@
+displayName,drugGroups,name,primary_seed,rank,score,selected,shared name,type
+CLN3,,entrez.1201,TRUE,,,TRUE,entrez.1201,Gene
+,,entrez.93010,,,,FALSE,entrez.93010,Gene
+CILK1,,entrez.22858,,,,FALSE,entrez.22858,Gene
+ADAM9,,entrez.8754,TRUE,,,TRUE,entrez.8754,Gene
+,,entrez.55776,,,,FALSE,entrez.55776,Gene
+,,entrez.145226,TRUE,,,TRUE,entrez.145226,Gene
+,,entrez.92840,TRUE,,,TRUE,entrez.92840,Gene
+,,entrez.51299,,,,FALSE,entrez.51299,Gene
+,,entrez.128338,TRUE,,,TRUE,entrez.128338,Gene
+,,entrez.64802,TRUE,,,TRUE,entrez.64802,Gene
+,,entrez.83442,,,,FALSE,entrez.83442,Gene
+CFAP410,,entrez.755,TRUE,,,TRUE,entrez.755,Gene
+ATP5MC3,,entrez.518,,,,FALSE,entrez.518,Gene
+,,entrez.253827,,,,FALSE,entrez.253827,Gene
+,,entrez.132160,,,,FALSE,entrez.132160,Gene
+,,entrez.57709,TRUE,,,TRUE,entrez.57709,Gene
+TNFSF10,,entrez.8743,,,,FALSE,entrez.8743,Gene
+MYH15,,entrez.22989,,,,FALSE,entrez.22989,Gene
+NRM,,entrez.11270,,,,FALSE,entrez.11270,Gene
+IMPDH1,,entrez.3614,TRUE,,,TRUE,entrez.3614,Gene
+ARL3,,entrez.403,TRUE,,,TRUE,entrez.403,Gene
+CCK,,entrez.885,,,,FALSE,entrez.885,Gene
+CA4,,entrez.762,TRUE,,,TRUE,entrez.762,Gene
+WWC1,,entrez.23286,,,,FALSE,entrez.23286,Gene
+,,entrez.84787,,,,FALSE,entrez.84787,Gene
+PDE6G,,entrez.5148,TRUE,,,TRUE,entrez.5148,Gene
+PDE6D,,entrez.5147,,,,FALSE,entrez.5147,Gene
+RIMS1,,entrez.22999,TRUE,,,TRUE,entrez.22999,Gene
+POLR3D,,entrez.661,,,,FALSE,entrez.661,Gene
+RBP3,,entrez.5949,TRUE,,,TRUE,entrez.5949,Gene
+,,entrez.196483,,,,FALSE,entrez.196483,Gene
+CACNA1F,,entrez.778,TRUE,,,TRUE,entrez.778,Gene
+IFT140,,entrez.9742,TRUE,,,TRUE,entrez.9742,Gene
+EEA1,,entrez.8411,,,,FALSE,entrez.8411,Gene
+,,entrez.130557,TRUE,,,TRUE,entrez.130557,Gene
+PDE6A,,entrez.5145,TRUE,,,TRUE,entrez.5145,Gene
+,,entrez.119710,,,,FALSE,entrez.119710,Gene
+,,entrez.28982,TRUE,,,TRUE,entrez.28982,Gene
+PRPF6,,entrez.24148,TRUE,,,TRUE,entrez.24148,Gene
+,,entrez.112752,TRUE,,,TRUE,entrez.112752,Gene
+RPGR,,entrez.6103,TRUE,,,TRUE,entrez.6103,Gene
+,,entrez.345275,,,,FALSE,entrez.345275,Gene
+,,entrez.203102,,,,FALSE,entrez.203102,Gene
+BEST1,,entrez.7439,TRUE,,,TRUE,entrez.7439,Gene
+,,entrez.93589,TRUE,,,TRUE,entrez.93589,Gene
+CYP4F2,,entrez.8529,,,,FALSE,entrez.8529,Gene
+,,entrez.346007,TRUE,,,TRUE,entrez.346007,Gene
+,,entrez.79188,,,,FALSE,entrez.79188,Gene
+RP2,,entrez.6102,TRUE,,,TRUE,entrez.6102,Gene
+RP1,,entrez.6101,TRUE,,,TRUE,entrez.6101,Gene
+,,entrez.285440,TRUE,,,TRUE,entrez.285440,Gene
+RP9,,entrez.6100,TRUE,,,TRUE,entrez.6100,Gene
+,,entrez.54806,TRUE,,,TRUE,entrez.54806,Gene
+MAK,,entrez.4117,TRUE,,,TRUE,entrez.4117,Gene
+SOX2,,entrez.6657,TRUE,,,TRUE,entrez.6657,Gene
+AIPL1,,entrez.23746,TRUE,,,TRUE,entrez.23746,Gene
+,,entrez.222553,,,,FALSE,entrez.222553,Gene
+PRPF4,,entrez.9128,TRUE,,,TRUE,entrez.9128,Gene
+PRPF3,,entrez.9129,TRUE,,,TRUE,entrez.9129,Gene
+,,entrez.55211,,,,FALSE,entrez.55211,Gene
+CRX,,entrez.1406,TRUE,,,TRUE,entrez.1406,Gene
+GUCA1B,,entrez.2979,TRUE,,,TRUE,entrez.2979,Gene
+ROM1,,entrez.6094,TRUE,,,TRUE,entrez.6094,Gene
+IRX5,,entrez.10265,TRUE,,,TRUE,entrez.10265,Gene
+RAB28,,entrez.9364,TRUE,,,TRUE,entrez.9364,Gene
+,,entrez.158866,,,,FALSE,entrez.158866,Gene
+,,entrez.84219,,,,FALSE,entrez.84219,Gene
+,,entrez.157657,TRUE,,,TRUE,entrez.157657,Gene
+FAM114A2,,entrez.10827,,,,FALSE,entrez.10827,Gene
+,,entrez.53826,,,,FALSE,entrez.53826,Gene
+,,entrez.64283,,,,FALSE,entrez.64283,Gene
+,,entrez.79797,TRUE,,,TRUE,entrez.79797,Gene
+NRL,,entrez.4901,TRUE,,,TRUE,entrez.4901,Gene
+B3GALT4,,entrez.8705,,,,FALSE,entrez.8705,Gene
+,,entrez.84100,TRUE,,,TRUE,entrez.84100,Gene
+COL11A1,,entrez.1301,TRUE,,,TRUE,entrez.1301,Gene
+KPNA5,,entrez.3841,,,,FALSE,entrez.3841,Gene
+SPARC,,entrez.6678,,,,FALSE,entrez.6678,Gene
+,,entrez.81606,,,,FALSE,entrez.81606,Gene
+,,entrez.768206,TRUE,,,TRUE,entrez.768206,Gene
+BBS2,,entrez.583,TRUE,,,TRUE,entrez.583,Gene
+CLRN1,,entrez.7401,TRUE,,,TRUE,entrez.7401,Gene
+ALDH1A2,,entrez.8854,,,,FALSE,entrez.8854,Gene
+BBS1,,entrez.582,TRUE,,,TRUE,entrez.582,Gene
+NAALADL1,,entrez.10004,TRUE,,,TRUE,entrez.10004,Gene
+PDAP1,,entrez.11333,TRUE,,,TRUE,entrez.11333,Gene
+NR2E3,,entrez.10002,TRUE,,,TRUE,entrez.10002,Gene
+ARHGAP26,,entrez.23092,,,,FALSE,entrez.23092,Gene
+,,entrez.283459,,,,FALSE,entrez.283459,Gene
+TTLL5,,entrez.23093,TRUE,,,TRUE,entrez.23093,Gene
+PRPF31,,entrez.26121,TRUE,,,TRUE,entrez.26121,Gene
+RAB26,,entrez.25837,,,,FALSE,entrez.25837,Gene
+PROM1,,entrez.8842,TRUE,,,TRUE,entrez.8842,Gene
+GBA1,,entrez.2629,,,,FALSE,entrez.2629,Gene
+CRB1,,entrez.23418,TRUE,,,TRUE,entrez.23418,Gene
+,,entrez.282809,TRUE,,,TRUE,entrez.282809,Gene
+UBE2E3,,entrez.10477,,,,FALSE,entrez.10477,Gene
+MFHAS1,,entrez.9258,,,,FALSE,entrez.9258,Gene
+,,entrez.57096,TRUE,,,TRUE,entrez.57096,Gene
+PTK2B,,entrez.2185,,,,FALSE,entrez.2185,Gene
+,,entrez.375298,TRUE,,,TRUE,entrez.375298,Gene
+,,entrez.84140,TRUE,,,TRUE,entrez.84140,Gene
+,,entrez.55812,TRUE,,,TRUE,entrez.55812,Gene
+ATP1A4,,entrez.480,,,,FALSE,entrez.480,Gene
+,,entrez.57677,,,,FALSE,entrez.57677,Gene
+PRPF8,,entrez.10594,TRUE,,,TRUE,entrez.10594,Gene
+HOXC13,,entrez.3229,,,,FALSE,entrez.3229,Gene
+,,entrez.84255,TRUE,,,TRUE,entrez.84255,Gene
+TRIP10,,entrez.9322,,,,FALSE,entrez.9322,Gene
+,,entrez.135946,,,,FALSE,entrez.135946,Gene
+,,entrez.399823,TRUE,,,TRUE,entrez.399823,Gene
+,,entrez.79594,,,,FALSE,entrez.79594,Gene
+UNC50,,entrez.25972,,,,FALSE,entrez.25972,Gene
+,,entrez.84932,,,,FALSE,entrez.84932,Gene
+SAG,,entrez.6295,TRUE,,,TRUE,entrez.6295,Gene
+,,entrez.388939,TRUE,,,TRUE,entrez.388939,Gene
+,,entrez.51569,,,,FALSE,entrez.51569,Gene
+CELSR3,,entrez.1951,,,,FALSE,entrez.1951,Gene
+RGR,,entrez.5995,TRUE,,,TRUE,entrez.5995,Gene
+,,entrez.51209,,,,FALSE,entrez.51209,Gene
+,,entrez.54957,,,,FALSE,entrez.54957,Gene
+PUDP,,entrez.8226,,,,FALSE,entrez.8226,Gene
+MERTK,,entrez.10461,TRUE,,,TRUE,entrez.10461,Gene
+,,entrez.92312,,,,FALSE,entrez.92312,Gene
+XBP1,,entrez.7494,,,,FALSE,entrez.7494,Gene
+TOPORS,,entrez.10210,TRUE,,,TRUE,entrez.10210,Gene
+IFT88,,entrez.8100,TRUE,,,TRUE,entrez.8100,Gene
+,,entrez.57670,TRUE,,,TRUE,entrez.57670,Gene
+ARL2BP,,entrez.23568,TRUE,,,TRUE,entrez.23568,Gene
+,,entrez.221960,TRUE,,,TRUE,entrez.221960,Gene
+LRAT,,entrez.9227,TRUE,,,TRUE,entrez.9227,Gene
+,,entrez.123016,TRUE,,,TRUE,entrez.123016,Gene
+,,entrez.60509,TRUE,,,TRUE,entrez.60509,Gene
+,,entrez.57214,,,,FALSE,entrez.57214,Gene
+TULP1,,entrez.7287,TRUE,,,TRUE,entrez.7287,Gene
+IFT172,,entrez.26160,TRUE,,,TRUE,entrez.26160,Gene
+GUCY2D,,entrez.3000,TRUE,,,TRUE,entrez.3000,Gene
+,,entrez.64782,,,,FALSE,entrez.64782,Gene
+TCEAL1,,entrez.9338,,,,FALSE,entrez.9338,Gene
+ATF6,,entrez.22926,TRUE,,,TRUE,entrez.22926,Gene
+TTPA,,entrez.7274,TRUE,,,TRUE,entrez.7274,Gene
+TUB,,entrez.7275,TRUE,,,TRUE,entrez.7275,Gene
+CLOCK,,entrez.9575,,,,FALSE,entrez.9575,Gene
+CROCC,,entrez.9696,TRUE,,,TRUE,entrez.9696,Gene
+USH2A,,entrez.7399,TRUE,,,TRUE,entrez.7399,Gene
+,,entrez.83394,TRUE,,,TRUE,entrez.83394,Gene
+,,entrez.50939,TRUE,,,TRUE,entrez.50939,Gene
+OFD1,,entrez.8481,TRUE,,,TRUE,entrez.8481,Gene
+,,entrez.49855,TRUE,,,TRUE,entrez.49855,Gene
+,,entrez.79947,TRUE,,,TRUE,entrez.79947,Gene
+CHM,,entrez.1121,TRUE,,,TRUE,entrez.1121,Gene
+RLBP1,,entrez.6017,TRUE,,,TRUE,entrez.6017,Gene
+,,entrez.55857,TRUE,,,TRUE,entrez.55857,Gene
+PRPH2,,entrez.5961,TRUE,,,TRUE,entrez.5961,Gene
+NEK2,,entrez.4751,TRUE,,,TRUE,entrez.4751,Gene
+IDH3B,,entrez.3420,TRUE,,,TRUE,entrez.3420,Gene
+,,entrez.55975,TRUE,,,TRUE,entrez.55975,Gene
+,,entrez.55734,,,,FALSE,entrez.55734,Gene
+GRK2,,entrez.156,,,,FALSE,entrez.156,Gene
+,,entrez.138050,TRUE,,,TRUE,entrez.138050,Gene
+RHO,,entrez.6010,TRUE,,,TRUE,entrez.6010,Gene
+OPN1LW,,entrez.5956,TRUE,,,TRUE,entrez.5956,Gene
+RBP4,,entrez.5950,TRUE,,,TRUE,entrez.5950,Gene
+PDE6B,,entrez.5158,TRUE,,,TRUE,entrez.5158,Gene
+CST6,,entrez.1474,,,,FALSE,entrez.1474,Gene
+,,entrez.54870,,,,FALSE,entrez.54870,Gene
+,,entrez.102724428,,,,FALSE,entrez.102724428,Gene
+IDH3A,,entrez.3419,TRUE,,,TRUE,entrez.3419,Gene
+RDH5,,entrez.5959,,,,FALSE,entrez.5959,Gene
+,,entrez.55054,,,,FALSE,entrez.55054,Gene
+UBE2N,,entrez.7334,,,,FALSE,entrez.7334,Gene
+HK1,,entrez.3098,TRUE,,,TRUE,entrez.3098,Gene
+,,entrez.284131,,,,FALSE,entrez.284131,Gene
+RPE65,,entrez.6121,TRUE,,,TRUE,entrez.6121,Gene
+,,entrez.84868,,,,FALSE,entrez.84868,Gene
+,,entrez.83538,,,,FALSE,entrez.83538,Gene
+CCL18,,entrez.6362,,,,FALSE,entrez.6362,Gene
+,,entrez.118142757,,,,FALSE,entrez.118142757,Gene
+PLXND1,,entrez.23129,,,,FALSE,entrez.23129,Gene
+,,entrez.84839,TRUE,,,TRUE,entrez.84839,Gene
+CXCL14,,entrez.9547,,,,FALSE,entrez.9547,Gene
+,,entrez.114902,TRUE,,,TRUE,entrez.114902,Gene
+,,entrez.149647,TRUE,,,TRUE,entrez.149647,Gene
+HPCA,,entrez.3208,,,,FALSE,entrez.3208,Gene
+UGT2B7,,entrez.7364,,,,FALSE,entrez.7364,Gene
+DHX38,,entrez.9785,TRUE,,,TRUE,entrez.9785,Gene
+CNGA3,,entrez.1261,TRUE,,,TRUE,entrez.1261,Gene
+ARHGEF18,,entrez.23370,TRUE,,,TRUE,entrez.23370,Gene
+FSCN2,,entrez.25794,TRUE,,,TRUE,entrez.25794,Gene
+MYO7A,,entrez.4647,,,,FALSE,entrez.4647,Gene
+,,entrez.26525,,,,FALSE,entrez.26525,Gene
+CNGA1,,entrez.1259,TRUE,,,TRUE,entrez.1259,Gene
+CNGB1,,entrez.1258,TRUE,,,TRUE,entrez.1258,Gene
+,,entrez.92211,TRUE,,,TRUE,entrez.92211,Gene
+USH1C,,entrez.10083,,,,FALSE,entrez.10083,Gene
+AHR,,entrez.196,TRUE,,,TRUE,entrez.196,Gene
+,,entrez.55624,TRUE,,,TRUE,entrez.55624,Gene
+,,entrez.56952,TRUE,,,TRUE,entrez.56952,Gene
+ABHD12,,entrez.26090,TRUE,,,TRUE,entrez.26090,Gene
+,,entrez.64218,TRUE,,,TRUE,entrez.64218,Gene
+,,entrez.257236,,,,FALSE,entrez.257236,Gene
+,,entrez.126789,,,,FALSE,entrez.126789,Gene
+,,entrez.57010,,,,FALSE,entrez.57010,Gene
+ABCA4,,entrez.24,TRUE,,,TRUE,entrez.24,Gene
+CTH,,entrez.1491,,,,FALSE,entrez.1491,Gene
+SNRNP200,,entrez.23020,TRUE,,,TRUE,entrez.23020,Gene
+UNC119,,entrez.9094,TRUE,,,TRUE,entrez.9094,Gene
+Imatinib,approved,drugbank.DB00619,,15,0.3815261044,FALSE,drugbank.DB00619,Drug
+Dipyridamole,approved,drugbank.DB00975,,31,0.3400954654,FALSE,drugbank.DB00975,Drug
+Nintedanib,approved,drugbank.DB09079,,6,0.4042553191,FALSE,drugbank.DB09079,Drug
+Pseudoephedrine,approved,drugbank.DB00852,,24,0.3462940462,FALSE,drugbank.DB00852,Drug
+Hydroflumethiazide,"approved, investigational, withdrawn",drugbank.DB00774,,37,0.3352941176,FALSE,drugbank.DB00774,Drug
+Sunitinib,"approved, investigational",drugbank.DB01268,,3,0.4136429608,FALSE,drugbank.DB01268,Drug
+Crizotinib,"approved, investigational",drugbank.DB08865,,8,0.3941908714,FALSE,drugbank.DB08865,Drug
+Erlotinib,"approved, investigational",drugbank.DB00530,,14,0.3820375335,FALSE,drugbank.DB00530,Drug
+Digitoxin,"approved, investigational",drugbank.DB01396,,34,0.3372781065,FALSE,drugbank.DB01396,Drug
+Neratinib,"approved, investigational",drugbank.DB11828,,10,0.3882833787,FALSE,drugbank.DB11828,Drug
+Miconazole,"approved, investigational, vet_approved",drugbank.DB01110,,17,0.3635204082,FALSE,drugbank.DB01110,Drug
+Atorvastatin,approved,drugbank.DB01076,,34,0.3372781065,FALSE,drugbank.DB01076,Drug
+Dronedarone,approved,drugbank.DB04855,,38,0.3345070423,FALSE,drugbank.DB04855,Drug
+Calcium Phosphate,approved,drugbank.DB11348,,21,0.3531598513,FALSE,drugbank.DB11348,Drug
+,,drugbank.DB13961,,33,0.3380782918,FALSE,drugbank.DB13961,Drug
+,,drugbank.DB12010,,1,0.4311649017,FALSE,drugbank.DB12010,Drug
+,,drugbank.DB12130,,27,0.343787696,FALSE,drugbank.DB12130,Drug
+Enflurane,"approved, investigational, vet_approved",drugbank.DB00228,,25,0.3458737864,FALSE,drugbank.DB00228,Drug
+Amiodarone,"approved, investigational",drugbank.DB01118,,19,0.3566958698,FALSE,drugbank.DB01118,Drug
+Nicardipine,"approved, investigational",drugbank.DB00622,,33,0.3380782918,FALSE,drugbank.DB00622,Drug
+Nifedipine,approved,drugbank.DB01115,,35,0.3364817001,FALSE,drugbank.DB01115,Drug
+Vardenafil,approved,drugbank.DB00862,,38,0.3345070423,FALSE,drugbank.DB00862,Drug
+Halothane,"approved, vet_approved",drugbank.DB01159,,36,0.3356890459,FALSE,drugbank.DB01159,Drug
+Isotretinoin,approved,drugbank.DB00982,,38,0.3345070423,FALSE,drugbank.DB00982,Drug
+Spironolactone,approved,drugbank.DB00421,,20,0.3540372671,FALSE,drugbank.DB00421,Drug
+Verapamil,approved,drugbank.DB00661,,28,0.3425480769,FALSE,drugbank.DB00661,Drug
+Primaquine,approved,drugbank.DB01087,,30,0.3409090909,FALSE,drugbank.DB01087,Drug
+Digoxin,approved,drugbank.DB00390,,32,0.33847981,FALSE,drugbank.DB00390,Drug
+Orlistat,"approved, investigational",drugbank.DB01083,,37,0.3352941176,FALSE,drugbank.DB01083,Drug
+Nilotinib,"approved, investigational",drugbank.DB04868,,16,0.374015748,FALSE,drugbank.DB04868,Drug
+Zonisamide,"approved, investigational",drugbank.DB00909,,38,0.3345070423,FALSE,drugbank.DB00909,Drug
+Xanthinol,"approved, withdrawn",drugbank.DB09092,,27,0.343787696,FALSE,drugbank.DB09092,Drug
+,,drugbank.DB14481,,21,0.3531598513,FALSE,drugbank.DB14481,Drug
+Copper,"approved, investigational",drugbank.DB09130,,2,0.4203539823,FALSE,drugbank.DB09130,Drug
+Calcium citrate,"approved, investigational",drugbank.DB11093,,21,0.3531598513,FALSE,drugbank.DB11093,Drug
+Tretinoin,"approved, investigational, nutraceutical",drugbank.DB00755,,22,0.3522867738,FALSE,drugbank.DB00755,Drug
+Vandetanib,approved,drugbank.DB05294,,9,0.3904109589,FALSE,drugbank.DB05294,Drug
+Pyridoxal phosphate,"approved, investigational, nutraceutical",drugbank.DB00114,,27,0.343787696,FALSE,drugbank.DB00114,Drug
+NADH,"approved, nutraceutical",drugbank.DB00157,,16,0.374015748,FALSE,drugbank.DB00157,Drug
+Sorafenib,"approved, investigational",drugbank.DB00398,,11,0.387755102,FALSE,drugbank.DB00398,Drug
+Celecoxib,"approved, investigational",drugbank.DB00482,,38,0.3345070423,FALSE,drugbank.DB00482,Drug
+Dabrafenib,"approved, investigational",drugbank.DB08912,,29,0.3421368547,FALSE,drugbank.DB08912,Drug
+Vitamin A,"approved, nutraceutical, vet_approved",drugbank.DB00162,,23,0.3505535055,FALSE,drugbank.DB00162,Drug
+Bosutinib,approved,drugbank.DB06616,,5,0.4077253219,FALSE,drugbank.DB06616,Drug
+Bisacodyl,approved,drugbank.DB09020,,37,0.3352941176,FALSE,drugbank.DB09020,Drug
+Midostaurin,"approved, investigational",drugbank.DB06595,,4,0.4094827586,FALSE,drugbank.DB06595,Drug
+Dobutamine,approved,drugbank.DB00841,,18,0.3630573248,FALSE,drugbank.DB00841,Drug
+Sildenafil,"approved, investigational",drugbank.DB00203,,29,0.3421368547,FALSE,drugbank.DB00203,Drug
+Caffeine,approved,drugbank.DB00201,,24,0.3462940462,FALSE,drugbank.DB00201,Drug
+Dasatinib,"approved, investigational",drugbank.DB01254,,7,0.4031117397,FALSE,drugbank.DB01254,Drug
+Pazopanib,approved,drugbank.DB06589,,13,0.3825503356,FALSE,drugbank.DB06589,Drug
+Axitinib,"approved, investigational",drugbank.DB06626,,12,0.3861788618,FALSE,drugbank.DB06626,Drug
+Dequalinium,"approved, investigational",drugbank.DB04209,,26,0.3446191052,FALSE,drugbank.DB04209,Drug
