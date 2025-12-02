@@ -1,0 +1,84 @@
+displayName,drugGroups,name,rank,score,selected,shared name,type
+SNAP25,,entrez.6616,,,TRUE,entrez.6616,Gene
+KIF4A,,entrez.24137,,,TRUE,entrez.24137,Gene
+,,entrez.51512,,,TRUE,entrez.51512,Gene
+MAPT,,entrez.4137,,,TRUE,entrez.4137,Gene
+CA2,,entrez.760,,,TRUE,entrez.760,Gene
+ARHGAP11A,,entrez.9824,,,TRUE,entrez.9824,Gene
+GNAT1,,entrez.2779,,,TRUE,entrez.2779,Gene
+,,entrez.259266,,,TRUE,entrez.259266,Gene
+,,entrez.388531,,,TRUE,entrez.388531,Gene
+,,entrez.57082,,,TRUE,entrez.57082,Gene
+PCP4,,entrez.5121,,,TRUE,entrez.5121,Gene
+CENPF,,entrez.1063,,,TRUE,entrez.1063,Gene
+TPD52,,entrez.7163,,,TRUE,entrez.7163,Gene
+KIF11,,entrez.3832,,,TRUE,entrez.3832,Gene
+KIFC1,,entrez.3833,,,TRUE,entrez.3833,Gene
+MKI67,,entrez.4288,,,TRUE,entrez.4288,Gene
+RGS9,,entrez.8787,,,TRUE,entrez.8787,Gene
+MYC,,entrez.4609,,,TRUE,entrez.4609,Gene
+FOXM1,,entrez.2305,,,TRUE,entrez.2305,Gene
+KIF20A,,entrez.10112,,,TRUE,entrez.10112,Gene
+UNC119,,entrez.9094,,,TRUE,entrez.9094,Gene
+TOP2A,,entrez.7153,,,TRUE,entrez.7153,Gene
+PPEF2,,entrez.5470,,,TRUE,entrez.5470,Gene
+HMGN1,,entrez.3150,,,TRUE,entrez.3150,Gene
+SDC1,,entrez.6382,,,TRUE,entrez.6382,Gene
+Imatinib,approved,drugbank.DB00619,3,0.4197530864,FALSE,drugbank.DB00619,Drug
+Salicylic acid,"approved, investigational, vet_approved",drugbank.DB00936,18,0.3505154639,FALSE,drugbank.DB00936,Drug
+Paclitaxel,"approved, vet_approved",drugbank.DB01229,6,0.4,FALSE,drugbank.DB01229,Drug
+Sulfanilamide,approved,drugbank.DB00259,18,0.3505154639,FALSE,drugbank.DB00259,Drug
+Rosiglitazone,"approved, investigational",drugbank.DB00412,15,0.3617021277,FALSE,drugbank.DB00412,Drug
+Hydroflumethiazide,"approved, investigational, withdrawn",drugbank.DB00774,17,0.3541666667,FALSE,drugbank.DB00774,Drug
+Clotrimazole,"approved, vet_approved",drugbank.DB00257,6,0.4,FALSE,drugbank.DB00257,Drug
+Furosemide,"approved, vet_approved",drugbank.DB00695,17,0.3541666667,FALSE,drugbank.DB00695,Drug
+Dactinomycin,"approved, investigational",drugbank.DB00970,15,0.3617021277,FALSE,drugbank.DB00970,Drug
+Diclofenamide,"approved, investigational",drugbank.DB01144,18,0.3505154639,FALSE,drugbank.DB01144,Drug
+Phenol,"approved, experimental",drugbank.DB03255,17,0.3541666667,FALSE,drugbank.DB03255,Drug
+Nadroparin,"approved, investigational",drugbank.DB08813,4,0.4146341463,FALSE,drugbank.DB08813,Drug
+Probenecid,"approved, investigational",drugbank.DB01032,18,0.3505154639,FALSE,drugbank.DB01032,Drug
+Valdecoxib,"approved, investigational, withdrawn",drugbank.DB00580,17,0.3541666667,FALSE,drugbank.DB00580,Drug
+Brinzolamide,approved,drugbank.DB01194,18,0.3505154639,FALSE,drugbank.DB01194,Drug
+,,drugbank.DB14533,1,0.4533333333,FALSE,drugbank.DB14533,Drug
+Acetazolamide,"approved, vet_approved",drugbank.DB00819,18,0.3505154639,FALSE,drugbank.DB00819,Drug
+Mezlocillin,"approved, investigational",drugbank.DB00948,14,0.3655913978,FALSE,drugbank.DB00948,Drug
+Dorzolamide,approved,drugbank.DB00869,18,0.3505154639,FALSE,drugbank.DB00869,Drug
+Acetylsalicylic acid,"approved, vet_approved",drugbank.DB00945,1,0.4533333333,FALSE,drugbank.DB00945,Drug
+Methylene blue,"approved, investigational",drugbank.DB09241,10,0.3820224719,FALSE,drugbank.DB09241,Drug
+Methazolamide,approved,drugbank.DB00703,18,0.3505154639,FALSE,drugbank.DB00703,Drug
+Enoxacin,"approved, investigational",drugbank.DB00467,16,0.3578947368,FALSE,drugbank.DB00467,Drug
+Troglitazone,"approved, investigational, withdrawn",drugbank.DB00197,12,0.3736263736,FALSE,drugbank.DB00197,Drug
+Topiramate,approved,drugbank.DB00273,18,0.3505154639,FALSE,drugbank.DB00273,Drug
+Sulpiride,"approved, investigational",drugbank.DB00391,16,0.3578947368,FALSE,drugbank.DB00391,Drug
+Nilotinib,"approved, investigational",drugbank.DB04868,5,0.4047619048,FALSE,drugbank.DB04868,Drug
+Guaiacol,approved,drugbank.DB11359,18,0.3505154639,FALSE,drugbank.DB11359,Drug
+Zonisamide,"approved, investigational",drugbank.DB00909,17,0.3541666667,FALSE,drugbank.DB00909,Drug
+,,drugbank.DB14086,17,0.3541666667,FALSE,drugbank.DB14086,Drug
+Astemizole,"approved, withdrawn",drugbank.DB00637,2,0.425,FALSE,drugbank.DB00637,Drug
+Tannic acid,approved,drugbank.DB09372,11,0.3777777778,FALSE,drugbank.DB09372,Drug
+Acetaminophen,approved,drugbank.DB00316,16,0.3578947368,FALSE,drugbank.DB00316,Drug
+Doxorubicin,"approved, investigational",drugbank.DB00997,8,0.3908045977,FALSE,drugbank.DB00997,Drug
+Mitoxantrone,"approved, investigational",drugbank.DB01204,7,0.3953488372,FALSE,drugbank.DB01204,Drug
+Docetaxel,"approved, investigational",drugbank.DB01248,9,0.3863636364,FALSE,drugbank.DB01248,Drug
+Hydroxyurea,approved,drugbank.DB01005,17,0.3541666667,FALSE,drugbank.DB01005,Drug
+Sulfasalazine,approved,drugbank.DB00795,11,0.3777777778,FALSE,drugbank.DB00795,Drug
+Zoledronic acid,approved,drugbank.DB00399,17,0.3541666667,FALSE,drugbank.DB00399,Drug
+Amsacrine,"approved, investigational",drugbank.DB00276,17,0.3541666667,FALSE,drugbank.DB00276,Drug
+Pioglitazone,"approved, investigational",drugbank.DB01132,18,0.3505154639,FALSE,drugbank.DB01132,Drug
+Celecoxib,"approved, investigational",drugbank.DB00482,16,0.3578947368,FALSE,drugbank.DB00482,Drug
+Lacosamide,approved,drugbank.DB06218,17,0.3541666667,FALSE,drugbank.DB06218,Drug
+,,drugbank.DB13628,6,0.4,FALSE,drugbank.DB13628,Drug
+,,drugbank.DB14914,15,0.3617021277,FALSE,drugbank.DB14914,Drug
+Dimethyl sulfoxide,"approved, vet_approved",drugbank.DB01093,3,0.4197530864,FALSE,drugbank.DB01093,Drug
+Urea,"approved, investigational",drugbank.DB03904,13,0.3695652174,FALSE,drugbank.DB03904,Drug
+Cyclothiazide,approved,drugbank.DB00606,18,0.3505154639,FALSE,drugbank.DB00606,Drug
+Lansoprazole,"approved, investigational",drugbank.DB00448,7,0.3953488372,FALSE,drugbank.DB00448,Drug
+Epirubicin,approved,drugbank.DB00445,12,0.3736263736,FALSE,drugbank.DB00445,Drug
+Dobutamine,approved,drugbank.DB00841,4,0.4146341463,FALSE,drugbank.DB00841,Drug
+Norfloxacin,approved,drugbank.DB01059,18,0.3505154639,FALSE,drugbank.DB01059,Drug
+Podofilox,approved,drugbank.DB01179,9,0.3863636364,FALSE,drugbank.DB01179,Drug
+Benzthiazide,approved,drugbank.DB00562,18,0.3505154639,FALSE,drugbank.DB00562,Drug
+Trichlormethiazide,"approved, vet_approved",drugbank.DB01021,17,0.3541666667,FALSE,drugbank.DB01021,Drug
+Doconexent,"approved, investigational",drugbank.DB03756,3,0.4197530864,FALSE,drugbank.DB03756,Drug
+,,drugbank.DB14006,18,0.3505154639,FALSE,drugbank.DB14006,Drug
+Indapamide,approved,drugbank.DB00808,18,0.3505154639,FALSE,drugbank.DB00808,Drug
