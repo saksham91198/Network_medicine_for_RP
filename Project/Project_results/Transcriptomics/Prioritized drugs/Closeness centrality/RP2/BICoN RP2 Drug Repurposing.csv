@@ -1,0 +1,32 @@
+displayName,drugGroups,name,rank,score,selected,shared name,type
+CDKN1A,,entrez.1026,,,TRUE,entrez.1026,Gene
+INPP5D,,entrez.3635,,,TRUE,entrez.3635,Gene
+RPA2,,entrez.6118,,,TRUE,entrez.6118,Gene
+,,entrez.253725,,,TRUE,entrez.253725,Gene
+DDB2,,entrez.1643,,,TRUE,entrez.1643,Gene
+COL1A1,,entrez.1277,,,TRUE,entrez.1277,Gene
+TGM1,,entrez.7051,,,TRUE,entrez.7051,Gene
+CPNE3,,entrez.8895,,,TRUE,entrez.8895,Gene
+,,entrez.145270,,,TRUE,entrez.145270,Gene
+TP53,,entrez.7157,,,TRUE,entrez.7157,Gene
+,,entrez.80724,,,TRUE,entrez.80724,Gene
+IGF2,,entrez.3481,,,TRUE,entrez.3481,Gene
+PLOD1,,entrez.5351,,,TRUE,entrez.5351,Gene
+TGFBI,,entrez.7045,,,TRUE,entrez.7045,Gene
+RPS26,,entrez.6231,,,TRUE,entrez.6231,Gene
+,,entrez.79050,,,TRUE,entrez.79050,Gene
+RNASEL,,entrez.6041,,,TRUE,entrez.6041,Gene
+,,drugbank.DB13133,6,0.3857142857,FALSE,drugbank.DB13133,Drug
+,,drugbank.DB14483,7,0.3506493506,FALSE,drugbank.DB14483,Drug
+,,drugbank.DB14482,7,0.3506493506,FALSE,drugbank.DB14482,Drug
+Acetylsalicylic acid,"approved, vet_approved",drugbank.DB00945,2,0.45,FALSE,drugbank.DB00945,Drug
+Valproic acid,"approved, investigational",drugbank.DB00313,4,0.421875,FALSE,drugbank.DB00313,Drug
+Ascorbic acid,"approved, nutraceutical",drugbank.DB00126,5,0.3970588235,FALSE,drugbank.DB00126,Drug
+Collagenase clostridium histolyticum,"approved, investigational",drugbank.DB00048,8,0.3461538462,FALSE,drugbank.DB00048,Drug
+Arsenic trioxide,"approved, investigational",drugbank.DB01169,3,0.435483871,FALSE,drugbank.DB01169,Drug
+Zinc,"approved, investigational",drugbank.DB01593,1,0.4821428571,FALSE,drugbank.DB01593,Drug
+Clove oil,"approved, nutraceutical",drugbank.DB11338,7,0.3506493506,FALSE,drugbank.DB11338,Drug
+,,drugbank.DB14548,1,0.4821428571,FALSE,drugbank.DB14548,Drug
+,,drugbank.DB12872,8,0.3461538462,FALSE,drugbank.DB12872,Drug
+,,drugbank.DB14533,1,0.4821428571,FALSE,drugbank.DB14533,Drug
+,,drugbank.DB14487,1,0.4821428571,FALSE,drugbank.DB14487,Drug
